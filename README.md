@@ -1,7 +1,7 @@
 # Introduction
 
 - Based on the reference below, I built this app.
-- It once run on Heroku successfully, and got down now.
+- It once run on Heroku successfully (fully functional), and got down now.
 - Static data is stored in AWS s3 bucket while the rest is deployed on Heroku.
 
 # Features added
